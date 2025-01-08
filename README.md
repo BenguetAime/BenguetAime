@@ -7,7 +7,7 @@ During my studies and still now, I have worked on mechanical/mechatronics design
 I would like to work as an engineer in one of these fields (mechatronics, robotics, electronics), as I am interested in complex systems engineering and interdisciplinarity.
 --
 
-Feel free to check out my portfolio, which showcases some of the projects (Homemade & academic projects, internships) I have worked on and gained skills from.
+Feel free to check out my #PORTFOLIO, which showcases some of the projects (Homemade & academic projects, internships) I have worked on and gained skills from.
 
 
 
