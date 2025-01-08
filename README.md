@@ -1,4 +1,6 @@
 # 💫 About Me:
+Graduate in Mechatronics Engineering (Seatech Toulon, 2024) and Master’s Degree in Robotics and IoT (University of Toulon, 2024).
+
 Diplômé : Ingénieur Mécatronique (Seatech Toulon, 2024) - Master 2 en Robotique et objets connectés (Université de Toulon, 2024).
 
 
@@ -12,7 +14,7 @@ Diplômé : Ingénieur Mécatronique (Seatech Toulon, 2024) - Master 2 en Roboti
 
 
 # Portfolio
-### 1. Aperçu Portfolio
+### Glimpse
 [![Images Portfolio](https://github.com/BenguetAime/BenguetAime/raw/main/Images_Portfolio.png)](https://BenguetAime.github.io/Shared_MyStudentPortfolio.github.io/)
 
 
