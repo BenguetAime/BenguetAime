@@ -6,22 +6,6 @@ Durant mes études et maintenant encore, j’ai pu travaillé sur des problémat
 Ceci, en utilisant, entre autres, les technologies ROS/ROS2, Python, C++, SolidWorks, Arduino, Raspberry Pi.
 Je souhaiterais occuper un poste d'ingénieurs dans l'un de ces domaines, étant intéressé par l'ingénierie des systèmes complexes et l'interdisciplinarité.
 
-__ENG :
-Graduate in Mechatronics Engineering (Seatech Toulon, 2024) and Master’s Degree in Robotics and IoT (University of Toulon, 2024).
-__FR :
-Diplômé : Ingénieur Mécatronique (Seatech Toulon, 2024) - Master 2 en Robotique et objets connectés (Université de Toulon, 2024).
-
-## About Me
-
-_________FR :  
-Diplômé en Ingénierie Mécatronique (Seatech Toulon, 2024) et Master 2 en Robotique et objets connectés (Université de Toulon, 2024).
-
-_________ENG :  
-Graduate in Mechatronics Engineering (Seatech Toulon, 2024) and Master’s Degree in Robotics and IoT (University of Toulon, 2024).
-
-Durant mes études et maintenant encore, j’ai pu travailler sur des problématiques de conception mécanique, ainsi que d'autres domaines connexes.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimé-prince-benguet-b01347223/) 
 
