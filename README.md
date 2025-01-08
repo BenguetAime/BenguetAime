@@ -6,8 +6,7 @@ During my studies and still now, I have worked on mechanical/mechatronics design
 
 I would like to pursue an engineering position in one of these fields (mechatronics, robotics, electronics), as I am interested in complex systems engineering and interdisciplinarity.
 --
-I would like to pursue an engineering position in one of these fields (mechatronics, robotics, electronics), as I am interested in complex systems engineering and interdisciplinarity.
-
+N'hésitez pas à consulter mon portfolio qui présente quelques-uns des projets (personnels, académiques, stages) sur lesquels j'ai pu travailler et monter en compétences.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimé-prince-benguet-b01347223/) 
 
