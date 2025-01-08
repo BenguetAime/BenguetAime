@@ -12,11 +12,8 @@ Diplômé : Ingénieur Mécatronique (Seatech Toulon, 2024) - Master 2 en Roboti
 
 
 # Portfolio
-### 1. Lidar
-![Lidar](https://github.com/BenguetAime/BenguetAime/raw/main/Lidar_.png)
-
-### 2. Images Portfolio
-[![Images Portfolio](https://github.com/UserName/BenguetAime/raw/main/Images_Portfolio.png)](https://BenguetAime.github.io/Shared_MyStudentPortfolio.github.io/)
+### 1. Aperçu Portfolio
+[![Images Portfolio](https://github.com/BenguetAime/BenguetAime/raw/main/Images_Portfolio.png)](https://BenguetAime.github.io/Shared_MyStudentPortfolio.github.io/)
 
 
 
