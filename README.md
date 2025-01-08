@@ -4,8 +4,9 @@ Graduate in Mechatronics Engineering (Seatech Toulon, 2024) and Master’s Degre
 --
 During my studies and still now, I have worked on mechanical/mechatronics design, robotics, embedded development, and electronics. This involved using, among others, technologies like ROS1/ROS2, Python, C++, SolidWorks, Arduino, and Raspberry Pi, KICAD 8 for PCB design.
 
-I would like to pursue an engineering position in one of these fields (mechatronics, robotics, electronics), as I am interested in complex systems engineering and interdisciplinarity.
+I would like to work as an engineer in one of these fields (mechatronics, robotics, electronics), as I am interested in complex systems engineering and interdisciplinarity.
 --
+
 Feel free to check out my portfolio, which showcases some of the projects (Homemade & academic projects, internships) I have worked on and gained skills from.
 
 
