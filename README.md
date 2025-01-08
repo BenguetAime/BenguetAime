@@ -2,10 +2,9 @@
 
 Graduate in Mechatronics Engineering (Seatech Toulon, 2024) and Master’s Degree in Robotics and IoT (University of Toulon, 2024).
 --
-Durant mes études et maintenant encore, j’ai pu travaillé sur des problématiques de conception mécanique/mécatronique, robotique, développement embarqué et électronique. 
-Ceci, en utilisant, entre autres, les technologies ROS/ROS2, Python, C++, SolidWorks, Arduino, Raspberry Pi.
+During my studies and still now, I have worked on mechanical/mechatronics design, robotics, embedded development, and electronics. This involved using, among other technologies, ROS/ROS2, Python, C++, SolidWorks, Arduino, and Raspberry Pi.
 
-Je souhaiterais occuper un poste d'ingénieurs dans l'un de ces domaines (mécatronique, robotique, électronique), étant intéressé par l'ingénierie des systèmes complexes et l'interdisciplinarité.
+I would like to pursue an engineering position in one of these fields (mechatronics, robotics, electronics), as I am interested in complex systems engineering and interdisciplinarity.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimé-prince-benguet-b01347223/) 
