@@ -1,6 +1,7 @@
 # 💫 About Me:
+_________FR :
 Graduate in Mechatronics Engineering (Seatech Toulon, 2024) and Master’s Degree in Robotics and IoT (University of Toulon, 2024).
-
+_________ENG :
 Diplômé : Ingénieur Mécatronique (Seatech Toulon, 2024) - Master 2 en Robotique et objets connectés (Université de Toulon, 2024).
 
 
