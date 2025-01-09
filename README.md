@@ -11,7 +11,7 @@ Feel free to check out my #STUDENT-PORTFOLIO, which showcases some of the projec
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimé-prince-benguet-b01347223/) 
 
 # 💻 Tech Stack:
