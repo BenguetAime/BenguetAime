@@ -32,7 +32,7 @@ Feel free to check out my #STUDENT-PORTFOLIO, which showcases some of the projec
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BenguetAime&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BenguetAime&theme=dark&hide_border=false)<br/>
-[![Images Portfolio](https://github.com/BenguetAime/BenguetAime/raw/main/Images_LanguagesReadme.png)]
+![Images Portfolio](https://github.com/BenguetAime/BenguetAime/raw/main/Images_LanguagesReadme.png)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BenguetAime&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
