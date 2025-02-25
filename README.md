@@ -22,7 +22,7 @@ Feel free to check out my #STUDENT-PORTFOLIO, which showcases some of the projec
 
 # 🌟 Portfolio :
 ### Glimpse
-[![Images Portfolio](https://github.com/BenguetAime/BenguetAime/raw/main/Images_Portfolio.png)](https://BenguetAime.github.io/Shared_MyStudentPortfolio.github.io/)
+[![Images Portfolio](https://github.com/BenguetAime/BenguetAime/raw/main/Images_Portfolio_2.png)](https://BenguetAime.github.io/Shared_MyStudentPortfolio.github.io/)
 
 
 
