@@ -1,6 +1,6 @@
 # 💫 About Me💫
 
-Graduate in Mechatronics Engineering (Seatech Toulon, 2024) and Master’s Degree in Robotics and IoT (University of Toulon, 2024).
+Graduate in Mechatronics Engineering (Seatech Toulon, 2024) and Master’s Degree in Robotics and Connected Objects (University of Toulon, 2024).
 --
 During my studies and still now, I have worked on mechanical/mechatronics design, robotics, embedded development, and electronics. This involved using, among others, technologies like SysML, UML, ROS1/ROS2, Python, C++, SolidWorks, CATIA V5, Arduino, Raspberry Pi, KICAD 8 for PCB design.
 
